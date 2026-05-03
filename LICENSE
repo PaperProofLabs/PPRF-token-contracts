@@ -1,0 +1,85 @@
+PaperProof Source-Available License
+Version 1.0
+Copyright (c) 2026 PaperProof Labs. All rights reserved.
+
+1. Overview
+
+This Software is made publicly available for transparency, security review, research, evaluation, interoperability, and integration with the official deployed PPRF token contract and the broader PaperProof ecosystem. Except for the limited permissions expressly granted in this License, no rights are granted to copy, modify, distribute, sublicense, commercialize, or deploy this Software or any derivative work.
+
+2. Definitions
+
+"Software" means the source code, smart contract code, interface definitions, configuration files, documentation, and other materials in this repository, excluding third-party components that are separately licensed.
+
+"Official Deployed Contract" means the smart contract instance deployed by or under the authority of the copyright holder as the official PPRF token contract of the PaperProof project.
+
+"Permitted Interface Use" means interacting with the Official Deployed Contract, including building software, wallets, explorers, clients, indexers, analytics tools, or frontends that call, query, display, or otherwise interoperate with the Official Deployed Contract through its public interfaces.
+
+"Derivative Work" means any modified, adapted, translated, transformed, or extended version of the Software, and any software substantially based on the protected expression of the Software.
+
+3. Limited Permission Grant
+
+Subject to the terms of this License, you are granted a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to:
+
+a. view, download, and locally store the Software for personal, internal, research, evaluation, educational, auditing, and security review purposes; and
+
+b. engage in Permitted Interface Use with the Official Deployed Contract, including developing independent frontends, dashboards, wallets, indexers, analytics tools, and other software that interoperates with the Official Deployed Contract without copying or modifying the Software.
+
+4. Restrictions
+
+Except as expressly permitted in Section 3, you may not, without prior written permission from the copyright holder:
+
+a. copy the Software, in whole or in part, except as reasonably necessary for the purposes expressly permitted under this License;
+
+b. modify, adapt, translate, reverse engineer into derivative source form, or create Derivative Works of the Software;
+
+c. publish, distribute, sublicense, sell, lease, assign, transfer, or otherwise make the Software or any Derivative Work available to any third party;
+
+d. deploy the Software, or any modified or unmodified version of it, as a separate smart contract, token contract, protocol, service, or competing implementation;
+
+e. use the Software, or any substantial portion of it, to create or operate a competing protocol, product, service, or token implementation;
+
+f. remove, alter, or obscure any copyright, license, attribution, trademark, or proprietary notices; or
+
+g. represent any unofficial deployment, fork, token instance, or interface as being endorsed by, affiliated with, or officially connected to PaperProof or PPRF without express written authorization.
+
+5. Third-Party Frontends and Integrations
+
+For clarity, this License does not prohibit independent software from calling, querying, indexing, displaying, or otherwise interoperating with the Official Deployed Contract, so long as such software does not copy, modify, distribute, or redeploy the Software in violation of this License.
+
+6. No Trademark License
+
+No trademark, service mark, trade name, logo, trade dress, or branding rights are granted under this License. "PaperProof," "PaperProof Labs," "PPRF," and all associated names, marks, and branding are reserved. Any use of such marks requires prior written permission unless permitted by applicable law.
+
+7. Third-Party Components
+
+Certain components, dependencies, or external packages may be subject to separate open-source or third-party licenses. This License does not override or restrict rights that you may have under those third-party licenses with respect to those third-party components only.
+
+8. Patent Reservation
+
+No patent license, whether express or implied, is granted under this License. All patent rights, if any, are reserved by the copyright holder.
+
+9. Feedback
+
+Unless separately agreed in writing, any suggestions, ideas, comments, or feedback you provide regarding the Software may be used by the copyright holder without restriction or compensation.
+
+10. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, SECURITY, OR ACCURACY. YOU USE THE SOFTWARE AT YOUR OWN RISK.
+
+11. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER OR ANY CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+
+12. Termination
+
+Any breach of this License automatically terminates the rights granted under it. Upon termination, you must cease all use of the Software except to the extent independent rights exist under applicable law or third-party licenses.
+
+13. Reservation of Rights
+
+All rights not expressly granted under this License are reserved by the copyright holder.
+
+14. Governing Interpretation
+
+This License shall be interpreted to preserve the copyright holder's retained rights to the maximum extent permitted by applicable law.
+
+For the purposes of this repository and its accompanying materials, "PaperProof Labs" is a pseudonym for Jinliang Xu.
