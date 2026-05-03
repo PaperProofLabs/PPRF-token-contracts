@@ -1,5 +1,7 @@
 # PPRF Token Scripts
 
+Use of the source code in this folder is governed by the repository root [LICENSE](../LICENSE). Public availability does not grant rights to copy, modify, distribute, redeploy, commercialize, or patent-license this code except as expressly permitted there.
+
 This folder contains two standalone Node.js scripts for the `PPRF-token` package:
 
 1. `finalize_registration.mjs`

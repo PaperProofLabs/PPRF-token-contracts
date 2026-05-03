@@ -1,0 +1,22 @@
+PaperProof Notice
+
+This repository is made publicly available by PaperProof Labs for transparency,
+security review, research, evaluation, and interoperability with the official
+deployed PPRF token contract and the broader PaperProof ecosystem.
+
+Public availability of this repository does not mean that the Software is
+licensed under a permissive or open-source license. Use of the source code is
+governed exclusively by the LICENSE file in the project root.
+
+No patent license is granted by access to this repository or by any public
+availability of the source code.
+
+For clarity, third parties may build independent software, interfaces, and
+frontends that interact with the official deployed PPRF token contract, so long
+as they do not copy, modify, distribute, redeploy, or commercialize this
+repository's source code except as expressly permitted by the LICENSE.
+
+No trademark rights, branding rights, or endorsement rights are granted by
+access to this repository.
+
+PaperProof Labs is a pseudonym for Jinliang Xu.

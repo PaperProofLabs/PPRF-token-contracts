@@ -1,3 +1,9 @@
+// Copyright (c) 2026 PaperProof Labs. All rights reserved.
+// SPDX-License-Identifier: LicenseRef-PaperProof-Source-Available
+// Use of this source code is governed by the LICENSE file in the project root.
+// Public readability and auditability do not grant rights to copy, modify,
+// distribute, redeploy, or commercialize this code except as expressly permitted.
+
 import path from "node:path";
 import process from "node:process";
 import { fileURLToPath } from "node:url";
