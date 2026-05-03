@@ -1,0 +1,14 @@
+{
+  "name": "pprf-token-tools",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "finalize-registration": "node ./finalize_registration.mjs",
+    "set-logo": "node ./set_pprf_logo.mjs"
+  },
+  "dependencies": {
+    "@mysten/sui": "2.16.0",
+    "@mysten/walrus": "1.1.2"
+  }
+}

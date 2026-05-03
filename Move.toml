@@ -1,0 +1,7 @@
+[package]
+name = "pprf"
+edition = "2024"
+version = "0.0.1"
+
+[addresses]
+pprf = "0x0"
