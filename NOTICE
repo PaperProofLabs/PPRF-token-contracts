@@ -4,6 +4,11 @@ This repository is made publicly available by PaperProof Labs for transparency,
 security review, research, evaluation, and interoperability with the official
 deployed PPRF token contract and the broader PaperProof ecosystem.
 
+PaperProof Protocol refers to the open protocol layer and official deployed
+protocol instances, including the PPRF protocol-token layer where applicable.
+PaperProof Labs refers to the originating team and maintainer of the official
+interface, SDKs, reference indexer, documentation, and brand identity.
+
 Public availability of this repository does not mean that the Software is
 licensed under a permissive or open-source license. Use of the source code is
 governed exclusively by the LICENSE file in the project root.
@@ -15,6 +20,9 @@ For clarity, third parties may build independent software, interfaces, and
 frontends that interact with the official deployed PPRF token contract, so long
 as they do not copy, modify, distribute, redeploy, or commercialize this
 repository's source code except as expressly permitted by the LICENSE.
+
+For token-specific non-investment, incentive, governance, market, tax, and
+jurisdictional risk boundaries, see docs/PPRF-Token-Disclaimer.md.
 
 No trademark rights, branding rights, or endorsement rights are granted by
 access to this repository.
